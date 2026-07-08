@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am an aspiring AI/ML enthusiast seeking an internship opportunity to apply foundational knowledge of Machine Learning. Motivated to learn,
+collaborate with teams, develop skills and grow into a versatile professional across roles such as ML Engineer, Data Scientist, or related
+fields.
 
 <!--
 **ProgrammingDesire/ProgrammingDesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
